@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun2", "CSharpFun2\CSharpFun2.csproj", "{A451073E-B777-4066-9757-10FD0F335356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A451073E-B777-4066-9757-10FD0F335356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A451073E-B777-4066-9757-10FD0F335356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A451073E-B777-4066-9757-10FD0F335356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A451073E-B777-4066-9757-10FD0F335356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE6F7AA0-6B60-4ADF-8855-587E74263464}
+	EndGlobalSection
+EndGlobal
